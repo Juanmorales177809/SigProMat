@@ -1,10 +1,3 @@
-% Sorany Andrade Arenas         - 1017240820
-% Daniela Restrepo Cadavid      - 1035870909
-% Jeferson Guillermo Mazo Román - 1152455708
-% Sergio Alexis Arias Gómez     - 1040752596
-% Alejandro Londoño Rivera      - 1013537540
-% Jonatan Marín Rojas           - 1020490225
-% Benjamín Huertas Herrera      - 1152717753
 
 clearvars,clc
 close all
