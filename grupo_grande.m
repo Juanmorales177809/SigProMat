@@ -75,7 +75,7 @@ elseif top_filter == 2 % Muestreo en frecuencia
     b = fir2(ord_FIR,f,Ak);
 elseif top_filter == 3 % Parks-McClellan
     a = 1;
-    b = firpm(ord_FIR,f,Ak);
+    b = firpm(ord_FIR,f,Ak)
 end
 
 % Filtros IIR 
